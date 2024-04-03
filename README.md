@@ -2,6 +2,8 @@
 
 This repository contains a database of superhero movies, along with SQL queries for analyzing and retrieving various insights from the dataset.
 
+![Designer (1)](https://github.com/cphoenix-07/Superhero-Movies-Database-and-Analysis/assets/71826054/8788bce5-2f51-4151-a520-72a74464ba49)
+
 ## Dataset Description
 
 The dataset consists of information on superhero movies including:
